@@ -9,7 +9,7 @@ public class App {
     }
 
     public String anotherGreeting() {
-        return "Hello World2";
+        return "Hello World3";
     }
 
     public static void main(String[] args) {
