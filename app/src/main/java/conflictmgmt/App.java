@@ -5,7 +5,7 @@ package conflictmgmt;
 
 public class App {
     public String getGreeting() {
-        return "Bonjour Monde";
+        return "Hello World";
     }
 
     public String anotherGreeting() {
